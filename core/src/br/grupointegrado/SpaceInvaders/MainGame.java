@@ -9,4 +9,6 @@ public class MainGame extends Game {
 	public void create() {
 		setScreen(new TelaJogo(this));
 	}
+
+
 }
